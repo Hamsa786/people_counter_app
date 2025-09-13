@@ -25,7 +25,6 @@ Simple and user-friendly interface
 🖼️ Output
 
 Sample Screenshots / Output:
-
 (Replace # with actual image paths in your repository)
 
 ⚙️ Tech Stack
