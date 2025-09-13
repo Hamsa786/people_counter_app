@@ -3,14 +3,14 @@ People Counter App
 📌 Project: People Counter App
 👨‍💻 Student: Hamsa Bhargav
 📱 Domain: Web Development / Computer Vision
-⏳ Duration: Mini Project
+⏳ Duration: Mini Project (Third Year)
+🎓 Mentor / Guide: [Optional: Add if applicable]
 
 📖 Project Overview
 
 The People Counter App is a web-based application developed using Python Flask to automatically count the number of people in an image. Users can upload images, and the app analyzes them to provide a real-time count of people present.
 
 This tool is useful for tracking occupancy, analyzing crowd density, or monitoring events efficiently without manual counting.
-
 
 🚀 Features
 
@@ -26,6 +26,7 @@ Simple and user-friendly interface
 
 Sample Screenshots / Output:
 
+(Replace # with actual image paths in your repository)
 
 ⚙️ Tech Stack
 
