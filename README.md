@@ -23,9 +23,10 @@ This tool is useful for tracking occupancy, analyzing crowd density, or monitori
 
 ## 🖼️ Output
 ### App Screenshot
-![Screenshot](Screenshot 2025-09-13 140901.png)
-![Screenshot](Screenshot 2025-09-13 140638.png)
-![Screenshot](Screenshot 2025-09-13 140234.png)
+![Screenshot](Screenshot%202025-09-13%20140901.png)  
+![Screenshot](Screenshot%202025-09-13%20140638.png)  
+![Screenshot](Screenshot%202025-09-13%20140234.png)  
+
 ---
 
 ## ⚙️ Tech Stack
